@@ -10,7 +10,7 @@
  </script>
 </head>
 
-# VPF-ADTP: A Virtual-Physical Fusion Autonomous Driving Testing Platform
+# VP-AutoTest: A Virtual-Physical Fusion Autonomous Driving Testing Platform
 
 **[Yiming Cui](https://tops.tongji.edu.cn/info/1131/1818.htm)**, [Shiyu Fang](https://tops.tongji.edu.cn/info/1033/1190.htm), [Jiarui Zhang](https://tops.tongji.edu.cn/info/1132/1815.htm),[Yan Huang](https://tops.tongji.edu.cn/info/1033/1189.htm), [Peng Hang](https://tops.tongji.edu.cn/info/1031/1383.htm), [Jian Sun](https://tops.tongji.edu.cn/info/1031/1187.htm)  
 
